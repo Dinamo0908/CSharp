@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\obj\Debug\netcoreapp3.1\Numeros Invertidos.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\obj\Debug\netcoreapp3.1\Numeros Invertidos.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\obj\Debug\netcoreapp3.1\Numeros Invertidos.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\obj\Debug\netcoreapp3.1\Numeros Invertidos.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\bin\Debug\netcoreapp3.1\Numeros Invertidos.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\bin\Debug\netcoreapp3.1\Numeros Invertidos.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\bin\Debug\netcoreapp3.1\Numeros Invertidos.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\bin\Debug\netcoreapp3.1\Numeros Invertidos.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\bin\Debug\netcoreapp3.1\Numeros Invertidos.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\bin\Debug\netcoreapp3.1\Numeros Invertidos.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\obj\Debug\netcoreapp3.1\Numeros Invertidos.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\obj\Debug\netcoreapp3.1\Numeros Invertidos.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Numeros Invertidos\obj\Debug\netcoreapp3.1\Numeros Invertidos.genruntimeconfig.cache

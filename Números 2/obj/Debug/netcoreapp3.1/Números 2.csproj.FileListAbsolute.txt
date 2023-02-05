@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\obj\Debug\netcoreapp3.1\Números 2.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\obj\Debug\netcoreapp3.1\Números 2.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\obj\Debug\netcoreapp3.1\Números 2.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\obj\Debug\netcoreapp3.1\Números 2.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\bin\Debug\netcoreapp3.1\Números 2.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\bin\Debug\netcoreapp3.1\Números 2.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\bin\Debug\netcoreapp3.1\Números 2.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\bin\Debug\netcoreapp3.1\Números 2.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\bin\Debug\netcoreapp3.1\Números 2.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\bin\Debug\netcoreapp3.1\Números 2.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\obj\Debug\netcoreapp3.1\Números 2.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\obj\Debug\netcoreapp3.1\Números 2.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Números 2\obj\Debug\netcoreapp3.1\Números 2.genruntimeconfig.cache
