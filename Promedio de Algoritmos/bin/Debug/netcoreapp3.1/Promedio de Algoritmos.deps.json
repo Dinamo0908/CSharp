@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Promedio de Algoritmos/1.0.0": {
+        "runtime": {
+          "Promedio de Algoritmos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Promedio de Algoritmos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\bin\Debug\netcoreapp3.1\Promedio de Algoritmos.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\bin\Debug\netcoreapp3.1\Promedio de Algoritmos.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\bin\Debug\netcoreapp3.1\Promedio de Algoritmos.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\bin\Debug\netcoreapp3.1\Promedio de Algoritmos.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\bin\Debug\netcoreapp3.1\Promedio de Algoritmos.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\bin\Debug\netcoreapp3.1\Promedio de Algoritmos.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\obj\Debug\netcoreapp3.1\Promedio de Algoritmos.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\obj\Debug\netcoreapp3.1\Promedio de Algoritmos.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\obj\Debug\netcoreapp3.1\Promedio de Algoritmos.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\obj\Debug\netcoreapp3.1\Promedio de Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\obj\Debug\netcoreapp3.1\Promedio de Algoritmos.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\obj\Debug\netcoreapp3.1\Promedio de Algoritmos.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Promedio de Algoritmos\obj\Debug\netcoreapp3.1\Promedio de Algoritmos.genruntimeconfig.cache
