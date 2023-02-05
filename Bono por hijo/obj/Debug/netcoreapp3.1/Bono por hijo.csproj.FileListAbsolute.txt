@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\bin\Debug\netcoreapp3.1\Bono por hijo.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\bin\Debug\netcoreapp3.1\Bono por hijo.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\bin\Debug\netcoreapp3.1\Bono por hijo.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\bin\Debug\netcoreapp3.1\Bono por hijo.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\bin\Debug\netcoreapp3.1\Bono por hijo.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\bin\Debug\netcoreapp3.1\Bono por hijo.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\obj\Debug\netcoreapp3.1\Bono por hijo.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\obj\Debug\netcoreapp3.1\Bono por hijo.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\obj\Debug\netcoreapp3.1\Bono por hijo.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\obj\Debug\netcoreapp3.1\Bono por hijo.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\obj\Debug\netcoreapp3.1\Bono por hijo.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\obj\Debug\netcoreapp3.1\Bono por hijo.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Bono por hijo\obj\Debug\netcoreapp3.1\Bono por hijo.genruntimeconfig.cache
