@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\obj\Debug\netcoreapp3.1\Detector de edades.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\obj\Debug\netcoreapp3.1\Detector de edades.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\obj\Debug\netcoreapp3.1\Detector de edades.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\obj\Debug\netcoreapp3.1\Detector de edades.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\bin\Debug\netcoreapp3.1\Detector de edades.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\bin\Debug\netcoreapp3.1\Detector de edades.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\bin\Debug\netcoreapp3.1\Detector de edades.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\bin\Debug\netcoreapp3.1\Detector de edades.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\bin\Debug\netcoreapp3.1\Detector de edades.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\bin\Debug\netcoreapp3.1\Detector de edades.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\obj\Debug\netcoreapp3.1\Detector de edades.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\obj\Debug\netcoreapp3.1\Detector de edades.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de edades\obj\Debug\netcoreapp3.1\Detector de edades.genruntimeconfig.cache

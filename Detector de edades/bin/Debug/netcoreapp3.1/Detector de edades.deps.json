@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Detector de edades/1.0.0": {
+        "runtime": {
+          "Detector de edades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Detector de edades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
