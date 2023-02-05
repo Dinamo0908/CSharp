@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\obj\Debug\netcoreapp3.1\Tarifa Telefonica.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\obj\Debug\netcoreapp3.1\Tarifa Telefonica.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\obj\Debug\netcoreapp3.1\Tarifa Telefonica.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\obj\Debug\netcoreapp3.1\Tarifa Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\bin\Debug\netcoreapp3.1\Tarifa Telefonica.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\bin\Debug\netcoreapp3.1\Tarifa Telefonica.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\bin\Debug\netcoreapp3.1\Tarifa Telefonica.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\bin\Debug\netcoreapp3.1\Tarifa Telefonica.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\bin\Debug\netcoreapp3.1\Tarifa Telefonica.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\bin\Debug\netcoreapp3.1\Tarifa Telefonica.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\obj\Debug\netcoreapp3.1\Tarifa Telefonica.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\obj\Debug\netcoreapp3.1\Tarifa Telefonica.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Tarifa Telefonica\obj\Debug\netcoreapp3.1\Tarifa Telefonica.genruntimeconfig.cache
