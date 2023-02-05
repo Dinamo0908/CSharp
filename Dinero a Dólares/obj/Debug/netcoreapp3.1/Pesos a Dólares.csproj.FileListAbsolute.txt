@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\bin\Debug\netcoreapp3.1\Pesos a Dólares.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\bin\Debug\netcoreapp3.1\Pesos a Dólares.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\bin\Debug\netcoreapp3.1\Pesos a Dólares.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\bin\Debug\netcoreapp3.1\Pesos a Dólares.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\bin\Debug\netcoreapp3.1\Pesos a Dólares.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\bin\Debug\netcoreapp3.1\Pesos a Dólares.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\obj\Debug\netcoreapp3.1\Pesos a Dólares.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\obj\Debug\netcoreapp3.1\Pesos a Dólares.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\obj\Debug\netcoreapp3.1\Pesos a Dólares.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\obj\Debug\netcoreapp3.1\Pesos a Dólares.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\obj\Debug\netcoreapp3.1\Pesos a Dólares.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\obj\Debug\netcoreapp3.1\Pesos a Dólares.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Pesos a Dólares\obj\Debug\netcoreapp3.1\Pesos a Dólares.genruntimeconfig.cache
