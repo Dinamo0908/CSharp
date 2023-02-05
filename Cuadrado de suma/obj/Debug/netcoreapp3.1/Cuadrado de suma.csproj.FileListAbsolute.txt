@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\bin\Debug\netcoreapp3.1\Cuadrado de suma.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\bin\Debug\netcoreapp3.1\Cuadrado de suma.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\bin\Debug\netcoreapp3.1\Cuadrado de suma.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\bin\Debug\netcoreapp3.1\Cuadrado de suma.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\bin\Debug\netcoreapp3.1\Cuadrado de suma.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\bin\Debug\netcoreapp3.1\Cuadrado de suma.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\obj\Debug\netcoreapp3.1\Cuadrado de suma.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\obj\Debug\netcoreapp3.1\Cuadrado de suma.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\obj\Debug\netcoreapp3.1\Cuadrado de suma.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\obj\Debug\netcoreapp3.1\Cuadrado de suma.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\obj\Debug\netcoreapp3.1\Cuadrado de suma.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\obj\Debug\netcoreapp3.1\Cuadrado de suma.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mí\Programs\C#\Cuadrado de suma\obj\Debug\netcoreapp3.1\Cuadrado de suma.genruntimeconfig.cache
